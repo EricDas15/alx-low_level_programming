@@ -1,4 +1,4 @@
-0;10;1c#include "holberton.h"
+#include "holberton.h"
 
 /**
  *powB - raises the number base to power power
