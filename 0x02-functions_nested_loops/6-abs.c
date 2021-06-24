@@ -1,4 +1,3 @@
-  
 #include "holberton.h"
 /**
  * _abs - calculate the absolute value of the number from zero.
