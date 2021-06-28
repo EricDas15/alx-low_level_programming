@@ -1,0 +1,1 @@
+This is where I learn arrays,strings and pointers. All the files will be pushed to my Github repo.
